@@ -1,4 +1,4 @@
-First, replace Javascript.js with javascript file, and but keep title the same
+First, replace Javascript.js with javascript file, but keep title the same
 
 To complete HTML file, add:
   Intro description to Index 
